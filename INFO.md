@@ -3,3 +3,4 @@ new line
 info line add
 line for amend check
 just more line
+another line add
